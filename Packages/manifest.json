@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.ide.rider": "3.0.7",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.ui": "1.0.0"
+  }
+}
